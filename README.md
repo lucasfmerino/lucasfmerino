@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Lucas F. Merino 
   <a href="https://github.com/lucasfmerino">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfmerino&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfmerino&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasfmerino&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfmerino&layout=compact&langs_count=7&theme=ocean_dark"/>
   <br/>
 </div>
 <br/>
@@ -52,5 +52,13 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/lucasfmerino/lucasfmerino/blob/output/github-contribution-grid-snake.svg)
 
-## About me
+<br/>
 
+## About me
+<div>
+  Hello, my name is Lucas and I am 31 years old.
+  <br/>
+  I am a mechanical engineer and passionate about programming.
+  <br/>
+  Every day I try to learn something new. My goal is to work in the backend programming area.
+</div>
