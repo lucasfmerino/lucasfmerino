@@ -59,8 +59,11 @@ Here are some ideas to get you started:
    <a href="https://discord.gg/zSD9pfZCmM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    	<a href="https://www.twitch.tv/pikachu_blizz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+<br/>
 
+## Contributions
 ![Snake animation](https://github.com/lucasfmerino/lucasfmerino/blob/output/github-contribution-grid-snake.svg)
+
 
 <br/>
 
