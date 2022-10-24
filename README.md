@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 
 
 # Hi there! I'm Lucas F. Merino 
+
+## About me
+<div>
+  Hello, my name is Lucas and I am 31 years old.
+  <br/>
+  I am mechanical engineer and passionate for programming.
+  <br/>
+  Every day I try to learn something new. My goal is to work in the backend programming area.
+</div>
+  <br/>
   <a href="https://github.com/lucasfmerino">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasfmerino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfmerino&layout=compact&langs_count=7&theme=codeSTACKr"/>
@@ -54,11 +64,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-## About me
-<div>
-  Hello, my name is Lucas and I am 31 years old.
-  <br/>
-  I am a mechanical engineer and passionate about programming.
-  <br/>
-  Every day I try to learn something new. My goal is to work in the backend programming area.
-</div>
+
