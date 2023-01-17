@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br/>
   I am mechanical engineer and passionate for programming.
   <br/>
-  Every day I try to learn something new. My goal is to work in the backend programming area.
+  Every day I try to learn something new. My goal is to work in the area of programming and development.
 </div>
   <br/>
   <a href="https://github.com/lucasfmerino">
