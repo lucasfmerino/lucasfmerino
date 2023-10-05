@@ -15,15 +15,32 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there! I'm Lucas F. Merino 
+# Hi there! I'm Lucas F. Merino  👋
 
 ## About me
-<div>
-  Hello, my name is Lucas and I am 31 years old.
-  <br/>
-  I am mechanical engineer and passionate for programming.
-  <br/>
-  I am an intern at fairy company and every day I try to learn something new.
+
+I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. Currently, I work as a Software Engineer at Fairy, where I collaborate to create innovative solutions.
+
+## Education and Experience 📚💼
+
+- 🎓 Studying Analysis and Systems Development at FIAP
+- 🎓 Graduate in Mechanical Engineering, with experience in projects and management
+- 📚 MBA in Project Management and postgraduate studies in Engineering and Maintenance Management
+
+## My Stack 🛠️
+
+- 💡 My primary language is Python, and I'm currently delving into the Django framework.
+- 🌐 I work with Web Application Implementation, RESTful APIs, and have experience in SQL and Software Architecture.
+- 👨‍💻 I'm also familiar with technologies like Java, JavaScript, TypeScript, NodeJS, React, HTML, and CSS.
+
+## Additional Knowledge 🧠
+
+- 🧩 I have strong expertise in data structures and algorithms.
+- 🔄 Proficient in object-oriented programming and version control practices (GIT and GitHub).
+- ✅ I have experience with TDD (Unittest and Pytest) and am comfortable in both Linux and Windows environments.
+
+## Let's Connect! 🚀
+
 </div>
   <br/>
   <a href="https://github.com/lucasfmerino">
