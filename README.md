@@ -21,6 +21,16 @@ Here are some ideas to get you started:
 
 I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. Currently, I work as a Software Engineer at Fairy, where I collaborate to create innovative solutions.
 
+</div>
+  <br/>
+  <a href="https://github.com/lucasfmerino">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasfmerino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfmerino&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <br/>
+</div>
+<br/>
+
+
 ## Education and Experience 📚💼
 
 - 🎓 Studying Analysis and Systems Development at FIAP
@@ -33,24 +43,7 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 - 🌐 I work with Web Application Implementation, RESTful APIs, and have experience in SQL and Software Architecture.
 - 👨‍💻 I'm also familiar with technologies like Java, JavaScript, TypeScript, NodeJS, React, HTML, and CSS.
 
-## Additional Knowledge 🧠
-
-- 🧩 I have strong expertise in data structures and algorithms.
-- 🔄 Proficient in object-oriented programming and version control practices (GIT and GitHub).
-- ✅ I have experience with TDD (Unittest and Pytest) and am comfortable in both Linux and Windows environments.
-
-## Let's Connect! 🚀
-
-</div>
-  <br/>
-  <a href="https://github.com/lucasfmerino">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasfmerino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfmerino&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  <br/>
-</div>
-<br/>
-
-## Currently Working Technologies
+### Currently Working Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="lfm-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="lfm-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -64,7 +57,7 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 </div>
 <br/>
 
-## Learning
+### Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="lfm-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="lfm-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -75,7 +68,15 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 </div>
 <br/>
 
-## Social
+## Additional Knowledge 🧠
+
+- 🧩 I have strong expertise in data structures and algorithms.
+- 🔄 Proficient in object-oriented programming and version control practices (GIT and GitHub).
+- ✅ I have experience with TDD (Unittest and Pytest) and am comfortable in both Linux and Windows environments.
+
+## Let's Connect! 🚀
+
+### Social
 <div> 
   <a href = "mailto:lucasfmerino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-fonseca-merino-7a0598a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
