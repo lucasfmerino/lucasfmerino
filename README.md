@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 
 ## About me
 
+
+<br/>
+
+  <div>
+    <img src="https://media.discordapp.net/attachments/1105990969754669150/1163695347562991687/Linkedin_Banner2.png?ex=654082bf&is=652e0dbf&hm=1026fb6a15bc24694e2970404804ccbc36edbdabb8326df1ad15d642c1178f2d&=&width=720&height=216"/>
+  </div>
+
+br/>
+
+<br/>
+
 I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. Currently, I work as a Software Engineer at Fairy, where I collaborate to create innovative solutions.
 
 </div>
