@@ -22,10 +22,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-  <div>
+<!--  <div>
     <img src="https://media.discordapp.net/attachments/1105990969754669150/1163695347562991687/Linkedin_Banner2.png?ex=654082bf&is=652e0dbf&hm=1026fb6a15bc24694e2970404804ccbc36edbdabb8326df1ad15d642c1178f2d&=&width=720&height=216"/>
-  </div>
+  </div> -->
 
+  <div>
+    <img src="https://media.discordapp.net/attachments/1105990969754669150/1168330954528526346/Banner_SE_2.png?ex=65515ffe&is=653eeafe&hm=282911352b1e6fb1a08d3199081f4ec0949ffe9402b65733a5b56fb4815e6839&=&width=1440&height=432"/>
+  </div>
+  
 <br/>
 
 <br/>
