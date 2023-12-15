@@ -54,9 +54,9 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 
 ## My Stack 🛠️
 
-- 💡 My primary language is Python, and I'm currently delving into the Django framework.
+- 💡 My preferred technologies are Java and Python. I am currently deepening my knowledge in these languages, exploring frameworks and tools that enhance their capabilities and applicability in various projects.
 - 🌐 I work with Web Application Implementation, RESTful APIs, and have experience in SQL and Software Architecture.
-- 👨‍💻 I'm also familiar with technologies like Java, JavaScript, TypeScript, NodeJS, React, HTML, and CSS.
+- 👨‍💻 I'm also familiar with technologies like JavaScript, TypeScript, NodeJS, React, HTML, and CSS.
 
 ### Currently Working Technologies
 <div style="display: inline_block"><br>
