@@ -88,7 +88,7 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 
 - 🧩 I have strong expertise in data structures and algorithms.
 - 🔄 Proficient in object-oriented programming and version control practices (GIT and GitHub).
-- ✅ I have experience with TDD (Unittest and Pytest) and am comfortable in both Linux and Windows environments.
+- ✅ I am comfortable in both Linux and Windows environments.
 
 ## Let's Connect! 🚀
 
@@ -96,7 +96,7 @@ I'm a programming enthusiast, constantly seeking new knowledge in the vast world
 <div> 
   <a href = "mailto:lucasfmerino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-fonseca-merino-7a0598a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/zSD9pfZCmM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/JYVaDSmKQc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    	<a href="https://www.twitch.tv/pikachu_blizz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 <br/>
