@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. Currently, I work as a Software Engineer at Fairy, where I collaborate to create innovative solutions.
+I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. 
+In my most recent experience, I worked as a Software Engineer on the Fairy team. In this position, I was involved in all stages of software development, from requirement analysis to coding and testing, and also played a role in process innovation.
 
 </div>
   <br/>
