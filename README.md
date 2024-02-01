@@ -99,8 +99,9 @@ In my most recent experience, I worked as a Software Engineer on the Fairy team.
 </div>
 <br/>
 
+<!--
 ## Contributions
 ![Snake animation](https://github.com/lucasfmerino/lucasfmerino/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 <br/>
