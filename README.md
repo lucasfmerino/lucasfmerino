@@ -55,7 +55,7 @@ In my most recent experience, I worked as a Software Engineer on the Fairy team.
 
 ## My Stack 🛠️
 
-- 💡 My preferred technologies are Java and Python. I am currently deepening my knowledge in these languages, exploring frameworks and tools that enhance their capabilities and applicability in various projects.
+- 💡 My preferred technologies are Java and Kotlin. I am currently deepening my knowledge in these languages, exploring frameworks and tools that enhance their capabilities and applicability in various projects.
 - 🌐 I work with Web Application Implementation, RESTful APIs, and have experience in SQL and Software Architecture.
 - 👨‍💻 I'm also familiar with technologies like JavaScript, TypeScript, NodeJS, React, HTML, and CSS.
 
