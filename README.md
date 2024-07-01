@@ -27,9 +27,8 @@ Here are some ideas to get you started:
   </div> -->
 
   <div>
-    <img src="https://media.discordapp.net/attachments/1105990969754669150/1235246951889637487/Banner_202402.png?ex=6655f3df&is=6654a25f&hm=108f686dfaa8fef3a3a6f532e17baa78923834e1b20f70b7692d6acc8a7be0a8&=&format=webp&quality=lossless&width=1258&height=377"/>
+    <img src="https://media.discordapp.net/attachments/1105990969754669150/1235246951889637487/Banner_202402.png?ex=6682c6df&is=6681755f&hm=2ee40cc5c5b1bf6e7f087aab8a9d7692ded6b47303140627a555013d47e18824&=&format=webp&quality=lossless&width=1055&height=317"/>
   </div>
-
   
 <br/>
 
