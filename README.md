@@ -109,4 +109,10 @@ In my most recent experience, I worked as a Software Engineer on the Fairy team.
 ![Snake animation](https://github.com/lucasfmerino/lucasfmerino/blob/output/github-contribution-grid-snake.svg)
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasfmerino/lucasfmerino/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasfmerino/lucasfmerino/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasfmerino/lucasfmerino/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br/>
