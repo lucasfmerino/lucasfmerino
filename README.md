@@ -20,22 +20,26 @@ Here are some ideas to get you started:
 ## About me
 
 
-<br/>
 
 <!--  <div>
     <img src="https://media.discordapp.net/attachments/1105990969754669150/1163695347562991687/Linkedin_Banner2.png?ex=654082bf&is=652e0dbf&hm=1026fb6a15bc24694e2970404804ccbc36edbdabb8326df1ad15d642c1178f2d&=&width=720&height=216"/>
-  </div> -->
+  </div> 
 
   <div>
     <img src="https://media.discordapp.net/attachments/1105990969754669150/1235246951889637487/Banner_202402.png?ex=6682c6df&is=6681755f&hm=2ee40cc5c5b1bf6e7f087aab8a9d7692ded6b47303140627a555013d47e18824&=&format=webp&quality=lossless&width=1055&height=317"/>
-  </div>
-  
-<br/>
+  </div> -->
 
 <br/>
 
-I'm a programming enthusiast, constantly seeking new knowledge in the vast world of technology. 
-In my most recent experience, I worked as a Software Engineer on the Fairy team. In this position, I was involved in all stages of software development, from requirement analysis to coding and testing, and also played a role in process innovation.
+I currently work at Grupo Sifat as a backend developer, focusing on microservices architecture.
+I also work as a freelancer, being responsible for the development of web applications with an emphasis on backend, in addition to coordinating technology teams.
+Previously, I worked as a Software Engineer on the Fairy team. In that position, I was involved in all stages of software development — from requirements analysis to coding and testing — and also played a significant role in process innovation.
+
+I hold a degree in Systems Analysis and Development from FIAP, a Bachelor's in Mechanical Engineering, an MBA in Project Management, and a postgraduate degree in Engineering and Maintenance Management.
+
+My main development stack is backend-oriented, using Java and Spring, with both relational (MySQL, PostgreSQL, Oracle, SQL Server) and non-relational (MongoDB) databases.
+In addition to these technologies, I have experience with Python, JavaScript, TypeScript, NodeJS, React, PL/SQL, HTML, and CSS.
+Data structures, algorithms, object-oriented programming, agile methodology (Scrum), REST APIs, containerization with Docker, and version control practices (GIT and GitHub) are part of my daily routine. I'm comfortable working in both Linux and Windows environments.
 
 </div>
   <br/>
