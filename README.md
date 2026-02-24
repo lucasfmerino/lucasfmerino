@@ -53,7 +53,7 @@ Data structures, algorithms, object-oriented programming, agile methodology (Scr
 
 ## Education and Experience 📚💼
 
-- 🎓 Studying Analysis and Systems Development at FIAP
+- 🎓 Graduate in Analysis and Systems Development at FIAP
 - 🎓 Graduate in Mechanical Engineering, with experience in projects and management
 - 📚 MBA in Project Management and postgraduate studies in Engineering and Maintenance Management
 
